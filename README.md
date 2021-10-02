@@ -16,7 +16,7 @@ Simple Ticket Using itext7 library in Java
 ### Screenshot
 Here is the result!
 
-![](MyPDF.PNG)
+![](MyPDF.png)
 
 ## My process
 
